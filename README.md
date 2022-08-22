@@ -1,14 +1,12 @@
 # Hi there, I'm Kanati 👋 
-###### Discord: Kanati#0001
+[![discord](https://discord.c99.nl/widget/theme-3/594241949481828353.png)](https://google.com)
 ## I'm A Developer And A Student
-- I’m currently learning many languages
-- Goals: learn html, css, js, c#, and java
+- I current have experience in discord.py, C#, html, and css
+- Goals: learn js, and java
 ## Current Projects
 * Unity Game Mods
-* A Gradient Generator For HTML, Unity's Rich Text, And BBCode
-## Project Repos
-<img alt="Kanati's Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=KanatiMC&repo=Unity-Gradient-Maker"/>
-<img alt="Kanati's Repos" src="https://github-readme-stats.vercel.app/api/pin/?username=KanatiMC&repo=RPG-Console-Game"/>
+* SyncBot
+* [A Gradient Generator For HTML, Unity Rich Text, And BBCode](https://kanatimc.github.io/Unity-Gradient-Maker/)
 
 ## Language Ussage
 <img alt="Kanati's stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanatiMC&layout=compact&langs_count=6"/>
