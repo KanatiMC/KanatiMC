@@ -1,5 +1,5 @@
 # Hi there, I'm Kanati 👋 
-[![discord](https://discord.c99.nl/widget/theme-3/594241949481828353.png)](https://google.com)
+![discord](https://discord.c99.nl/widget/theme-3/594241949481828353.png)
 ## I'm A Developer And A Student
 - I current have experience in discord.py, C#, html, and css
 - Goals: learn js, and java
