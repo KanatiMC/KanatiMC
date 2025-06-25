@@ -1,5 +1,5 @@
 # Hi there, I'm Kanati 👋 
-![discord](https://discord.c99.nl/widget/theme-3/5244393769271558144.png)
+![discord](https://discord.c99.nl/widget/theme-3/244393769271558144.png)
 ## I'm A Developer
 - I current have experience in Python, C#, C++, JS, HTML, and CSS
 ## Current Projects
