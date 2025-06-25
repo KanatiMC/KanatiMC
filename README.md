@@ -1,11 +1,10 @@
 # Hi there, I'm Kanati 👋 
-![discord](https://discord.c99.nl/widget/theme-3/594241949481828353.png)
-## I'm A Developer And A Student
-- I current have experience in discord.py, C#, html, and css
-- Goals: learn js, and java
+![discord](https://discord.c99.nl/widget/theme-3/5244393769271558144.png)
+## I'm A Developer
+- I current have experience in Python, C#, C++, JS, HTML, and CSS
 ## Current Projects
-* Unity Game Mods
-* SyncBot
+* Recte Selfbot
+* Recte External for Roblox
 * [A Gradient Generator For HTML, Unity Rich Text, And BBCode](https://kanatimc.github.io/Unity-Gradient-Maker/)
 
 ## Language Ussage
